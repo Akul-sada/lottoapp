@@ -1,0 +1,15 @@
+display the current date
+
+The ${number} st number of the lottery ticket of ${Lottery Name} and the draw date is on ${Date and time} is ${lottery number}.
+
+Display the lotery number.
+
+
+
+
+
+
+
+
+
+
