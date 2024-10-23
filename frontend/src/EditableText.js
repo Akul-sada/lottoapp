@@ -4,6 +4,8 @@ function EditableText({ initialText }) {
   const [isEditing, setIsEditing] = useState(false);
   const [text, setText] = useState(initialText);
 
+  
+
   const handleDoubleClick = () => {
     setIsEditing(true);
   };
